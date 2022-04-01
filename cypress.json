@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.herb.delivery/",
+    "chromeWebSecurity": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 720
+}

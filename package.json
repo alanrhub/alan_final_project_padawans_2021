@@ -1,0 +1,17 @@
+{
+  "name": "alan_final_project_padawans_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.0"
+  }
+}
